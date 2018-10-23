@@ -39,4 +39,5 @@
 
 ## 토큰 이코노미
 
+![2018-10-23 8 10 43](https://user-images.githubusercontent.com/39510214/47356726-d4ccdb80-d6ff-11e8-8507-9f7d3cec86a1.png)
 
